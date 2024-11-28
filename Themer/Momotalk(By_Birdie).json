@@ -1,10 +1,11 @@
 {
     "manifest": {
         "author": "hxppy_thxughts (But there's a second underscore))",
-        "version": "0.0.1",
         "name": "Birdie",
         "transparency_mode": 0,
-        "license": "¯\\_( ͡° ͜ʖ ͡°)_\/¯"
+        "license": "¯\\_( ͡° ͜ʖ ͡°)_\/¯",
+        "updater": "https:\/\/raw.githubusercontent.com\/HxppyBxrdxe\/Momotalk_Theme_Ailucord\/refs\/heads\/main\/Themer\/Momotalk(By_Birdie).json",
+        "version": "1.0.0"
     },
     "background": {
         "portain": {
