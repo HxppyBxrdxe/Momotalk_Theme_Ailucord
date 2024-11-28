@@ -1,7 +1,10 @@
 # Momotalk Theme for Ailucord
 A Momotalk inspired theme for your Aulicord. Keep in touch with your students, sensei! 
-###Based on Momotalk from Blue Archive
+### Based on Momotalk from Blue Archive
 ### Made with love by Birdie.
+
+<sub>Fuelled by Irish alcohol</sub>
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 # What's new?
 _(28/11/2024)_
