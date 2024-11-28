@@ -33,10 +33,11 @@ Make sure you have the Themer Plug in installed
 Light mode FTW
 ## Preview
 ### Mobile
-![Screenshot_2024-11-28-17-53-45-409_com aliucord](https://github.com/user-attachments/assets/54b947e5-3f23-4a01-b51a-90472e34ee87)
+![Screenshot-2024-11-28-17-53-45-4](https://github.com/user-attachments/assets/04101cf2-cd97-4f32-83ff-4c2750ef08c3)
+
 
 ### Tablet
-![Tablet1](https://github.com/user-attachments/assets/cd2dcd65-dad5-4784-af26-5f351371f2dd)
+![Tablet1](https://github.com/user-attachments/assets/cd2dcd65-dad5-4784-af26-5f351371f2dd) 
 -------------------------------------------------------------------------------------------------------------------------------------------
 ## Any issues or suggestions?
 
