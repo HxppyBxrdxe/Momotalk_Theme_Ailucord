@@ -3,7 +3,7 @@ A Momotalk inspired theme for your Aulicord. Keep in touch with your students, s
 ### Based on Momotalk from Blue Archive
 ### Made with love by Birdie.
 
-<sub>Fuelled by Irish alcohol</sub>
+<sub>Fueled by a burning desire for love</sub>
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 # What's new?
