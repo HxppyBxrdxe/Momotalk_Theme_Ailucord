@@ -10,6 +10,9 @@ A Momotalk inspired theme for your Aulicord. Keep in touch with your students, s
 _(28/11/2024)_
 It's released, that's all.
 
+_(05/03/2025)_
+A user has expressed concern with the theme not rendering properly on their phone. It's either an issue with Android 14 <sub>_(Has been noted before)_</sub>, or specifically the Redmi Note 13. I have no way of testing this, so I hope that it's just a once off issue. Sorry to anyone who has issues with it.
+
 ## Before your download!
 ### _(Only available on Ailucord... For now)_
 Make sure you have the Themer Plug in installed
