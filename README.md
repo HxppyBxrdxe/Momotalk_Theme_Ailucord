@@ -32,9 +32,10 @@ Make sure you have the Themer Plug in installed
   6) Done
 
 **The hacker-man route (Through GitHub)** <sub>_(Making life harder...)_</sub>
-  1) Download the ZIP `Code > Download ZIP`
-  2) Take out the contents and move it to `Internal Storage > Ailucord > themes`
-  3) It should show up in app.
+  1) Go to releases
+  2) Download <em>Momotalk.By.Birdie.json</em>
+  3) Move it to `Internal Storage > Ailucord > themes`
+  4) It should show up in app.
 
 ## Transparency mode = None
 -------------------------------------------------------------------------------------------------------------------------------------------
