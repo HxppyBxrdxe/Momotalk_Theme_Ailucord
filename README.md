@@ -52,7 +52,7 @@ Light mode FTW
 ## Any issues or suggestions?
 
 
-hxppy_thxughts on Discord, **but there is a second Underline!**
+hxppy__thxughts on Discord
 
 Or DM me on [Twitter](https://x.com/hxppy_thxught)
 
